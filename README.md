@@ -1,3 +1,3 @@
 # gl_learning
 
-Material to be shared with mentees from GL.
+Material to be shared with mentees from GL
